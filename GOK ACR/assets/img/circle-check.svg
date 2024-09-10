@@ -1,0 +1,7 @@
+<svg id="Component_16_1" data-name="Component 16 – 1" xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <g id="Ellipse_4" data-name="Ellipse 4" transform="translate(0 60) rotate(-90)" fill="none" stroke="#001a31" stroke-width="1">
+    <circle cx="30" cy="30" r="30" stroke="none"/>
+    <circle cx="30" cy="30" r="29.5" fill="none"/>
+  </g>
+  <path id="Icon_material-check" data-name="Icon material-check" d="M9.251,16.214,6.166,13.128,5.115,14.171l4.136,4.136,8.879-8.879L17.088,8.385Z" transform="translate(18.924 16.75)" fill="#001a31"/>
+</svg>
